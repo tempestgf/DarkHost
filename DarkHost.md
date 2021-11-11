@@ -73,3 +73,6 @@ HiddenServicePort 80 unix:/var/run/tor-my-website.sock
 
 #### https://onionscan.org/
 
+#### Nyx a program to monitor your tor usage. nyx
+
+
