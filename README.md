@@ -1,1 +1,1 @@
-<img src="DarkHost.md"></src>
+/md.htm?src=DarkHost.md
