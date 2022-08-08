@@ -1,1 +1,1 @@
-![alt text](DarkHost.md)
+<src="DarkHost.md"></src>
