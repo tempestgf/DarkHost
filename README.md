@@ -1,5 +1,5 @@
 # Dark Host
-#### All needed to know to launch a dark service server with Arch Linux.
+#### All needed to know to launch a dark service server (through Tor) with Arch Linux.
 
 ## Dependencies
 #### Install all the dependencies required.
@@ -97,8 +97,3 @@ sudo systemctl restart tor
 #### https://onionscan.org/
 
 #### Nyx a program to monitor tor usage. nyx
-
-
-
-Corrected with https://www.corrector.co/
-
